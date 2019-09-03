@@ -9,9 +9,9 @@ In this project I made a cms like word press.
 # the technology I used to make this project
 1. html
 2. cms
-3. javascript
+3. php
 4. bootstrap
-5. php
+5. javascript
 6. mysql
 
 # in this project has a lot of features
